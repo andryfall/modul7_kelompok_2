@@ -1,0 +1,15 @@
+{
+   "firstName": "Andry",
+   "lastName": "Nur Falah",
+   "gender": "male",
+   "age": 18,
+   "address": {
+       "streetAddress": "Riung bandung",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2E1", "name": "Basis Data" }
+   ]
+}
