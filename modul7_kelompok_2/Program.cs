@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            DataMahasiswa1302210123.ReadJSON();
+            //DataMahasiswa1302210123.ReadJSON();
+            TeamMembers1302210123.ReadJSON();
         }
     }
 }
