@@ -24,11 +24,11 @@
        "nim": "1302210123"
     },
     {
-       "firstName": "Emily",
-       "lastName": "Kelies",
-       "gender": "female",
-       "age": 24,
-       "nim": "456754675"
+       "firstName": "Yosua",
+       "lastName": "WilliamPallunan",
+       "gender": "male",
+       "age": 19,
+       "nim": "1302210126"
     },
     {
        "firstName": "Emily",
