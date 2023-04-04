@@ -10,11 +10,11 @@
        "nim": "1302213005"
     },
     {
-       "firstName": "James",
-       "lastName": "Smooth",
+       "firstName": "Reyhan",
+       "lastName": "Azani",
        "gender": "male",
-       "age": 32,
-       "nim": "5678568567"
+       "age": 90,
+       "nim": "1302210110"
     },
     {
        "firstName": "Emily",
