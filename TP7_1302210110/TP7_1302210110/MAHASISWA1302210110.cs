@@ -30,7 +30,8 @@ namespace jurnal7_1302210110
 
         public static void ReadJSON()
         {
-            String jsonString = File.ReadAllText("D:\\modul7_kelompok_2");
+            String path = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.FullName;
+            String jsonString = File.ReadAllText(path + "/jurnal7_1_1302210110.json");
 
             DataMahasiswa1302210110 mahasiswa = JsonSerializer.Deserialize<DataMahasiswa1302210110>(jsonString);
 
