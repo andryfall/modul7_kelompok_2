@@ -13,15 +13,15 @@
        "firstName": "Reyhan",
        "lastName": "Azani",
        "gender": "male",
-       "age": 90,
+       "age": 19,
        "nim": "1302210110"
     },
     {
-       "firstName": "Emily",
-       "lastName": "Kelies",
-       "gender": "female",
-       "age": 24,
-       "nim": "456754675"
+       "firstName": "Rafa",
+       "lastName": "Eka",
+       "gender": "Male",
+       "age": 19,
+       "nim": "1302210123"
     },
     {
        "firstName": "Emily",
