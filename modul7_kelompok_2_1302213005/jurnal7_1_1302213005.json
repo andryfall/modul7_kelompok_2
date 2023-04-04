@@ -1,15 +1,15 @@
 {
-   "firstName": "John",
-   "lastName": "Taslim",
+   "firstName": "Andry",
+   "lastName": "Nur Falah",
    "gender": "male",
-   "age": 25,
+   "age": 18,
    "address": {
-       "streetAddress": "Lengkong",
+       "streetAddress": "Riung bandung",
        "city": "Bandung",
        "state": "West Java"
    },
    "courses": [
        { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
-       { "code": "CRI2XX", "name": "Nama Mata Kuliah" }
+       { "code": "CRI2E1", "name": "Basis Data" }
    ]
 }
