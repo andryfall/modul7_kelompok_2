@@ -31,11 +31,11 @@
        "nim": "1302210126"
     },
     {
-       "firstName": "Emily",
-       "lastName": "Kelies",
-       "gender": "female",
-       "age": 24,
-       "nim": "456754675"
+       "firstName": "Satrio",
+       "lastName": "Agul",
+       "gender": "Arumbino",
+       "age": 20,
+       "nim": "1302210065"
     }
   ]
 }
