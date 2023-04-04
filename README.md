@@ -19,7 +19,7 @@
     {
        "firstName": "Rafa",
        "lastName": "Eka",
-       "gender": "Male",
+       "gender": "male",
        "age": 19,
        "nim": "1302210123"
     },
