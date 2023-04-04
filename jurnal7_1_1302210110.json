@@ -1,0 +1,15 @@
+{
+   "firstName": "Reyhan",
+   "lastName": "Azani",
+   "gender": "male",
+   "age": 70,
+   "address": {
+       "streetAddress": "kuru",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2E4", "name": "Basis Data" }
+   ]
+}
