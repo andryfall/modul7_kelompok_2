@@ -1,0 +1,39 @@
+{
+  "members" : [
+    {
+       "firstName": "Andry",
+       "lastName": "Nur Falah",
+       "gender": "male",
+       "age": 18,
+       "nim": "1302213005"
+    },
+    {
+       "firstName": "Reyhan",
+       "lastName": "Azani",
+       "gender": "male",
+       "age": 19,
+       "nim": "1302210110"
+    },
+    {
+       "firstName": "Rafa",
+       "lastName": "Eka",
+       "gender": "male",
+       "age": 19,
+       "nim": "1302210123"
+    },
+    {
+       "firstName": "Yosua",
+       "lastName": "WilliamPallunan",
+       "gender": "male",
+       "age": 19,
+       "nim": "1302210126"
+    },
+    {
+       "firstName": "Satrio",
+       "lastName": "Agul",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302210065"
+    }
+  ]
+}
